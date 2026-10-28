@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - DiffuseIndirectAndAO
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 105720
