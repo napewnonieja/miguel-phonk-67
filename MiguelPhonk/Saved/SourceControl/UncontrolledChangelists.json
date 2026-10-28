@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/yyy/miguel-phonk-67/MiguelPhonk/Content/BP_Player.uasset",
-				"D:/yyy/miguel-phonk-67/MiguelPhonk/Content/Level.umap"
+				"D:/yyy/miguel-phonk-67/MiguelPhonk/Content/Level.umap",
+				"D:/yyy/miguel-phonk-67/MiguelPhonk/Content/BP_Projectile.uasset"
 			]
 		}
 	]
