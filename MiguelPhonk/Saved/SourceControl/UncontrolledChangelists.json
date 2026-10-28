@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BlackPillEnemy/BP_Enemy.uasset",
-				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BP_Enemy.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BlackPillEnemy/BlackPill_zad4/BP_Enemy_Medium.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BlackPillEnemy/BlackPill_zad4/BP_Enemy_Hard.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BlackPillEnemy/BlackPill_zad4/BP_Enemy_Easy.uasset",
@@ -25,6 +24,9 @@
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset",
+				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/NewMap.umap",
+				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BlackPillEnemy/BlackPill_zad8/BP_PlayerBase.uasset",
+				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/BP_Enemy.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset",
@@ -155,7 +157,6 @@
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset",
 				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset",
-				"C:/Users/LAB1-Student01/Desktop/MLP/miguel-phonk-67/MiguelPhonk/Content/NewMap.umap",
 				"C:/Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Enemy.uasset"
 			]
 		}
