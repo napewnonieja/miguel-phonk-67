@@ -1274,3 +1274,256 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/MI_Kulka has a valid,
 [2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.28-09.05.15:276][851]AssetCheck: /Game/BP_Enemy Validating asset
+[2026.10.28-09.06.02:191][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1375.411133
+[2026.10.28-09.06.03:192][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.06.03:192][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1376.078979, Update Interval: 348.246094
+[2026.10.28-09.12.23:198][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1756.466553
+[2026.10.28-09.12.24:198][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.12.24:198][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1757.134033, Update Interval: 312.072510
+[2026.10.28-09.17.17:122][767]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.28-09.17.17:131][767]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.28-09.17.17:137][767]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.28-09.17.17:148][768]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.28-09.17.27:998][950]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Tower
+[2026.10.28-09.17.28:004][950]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.28-09.17.32:511][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.10.28-09.17.32:651][361]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.10.28-09.17.32:809][361]LogSlate: Took 0.156928 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.10.28-09.17.34:090][361]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.28-09.17.34:125][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-09.17.34:141][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.28-09.17.34:158][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.28-09.17.39:483][471]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.28-09.17.39:534][471]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.28-09.17.39:540][471]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.28-09.17.39:553][472]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.28-09.17.45:428][160]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Tower
+[2026.10.28-09.17.45:432][160]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.28-09.17.47:132][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Tower.BP_Tower
+[2026.10.28-09.17.47:133][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.10.28-09.17.59:262][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.10.28-09.18.18:090][368]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:091][368]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:104][369]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:104][369]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:104][369]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:116][370]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:117][370]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:117][370]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:129][371]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:129][371]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:129][371]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:142][372]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:142][372]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:142][372]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:155][373]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:155][373]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:155][373]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:168][374]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:168][374]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:168][374]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:180][375]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:180][375]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:180][375]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:193][376]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:193][376]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:193][376]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:205][377]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:205][377]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:205][377]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:218][378]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:218][378]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:218][378]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:230][379]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:230][379]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:230][379]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:243][380]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:243][380]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:243][380]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:256][381]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:256][381]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:256][381]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:269][382]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:269][382]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:269][382]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:281][383]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:281][383]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:281][383]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:294][384]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:294][384]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:294][384]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:306][385]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:306][385]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:306][385]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:319][386]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:319][386]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:319][386]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:331][387]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:331][387]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:332][387]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:344][388]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:344][388]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:344][388]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:357][389]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:357][389]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:357][389]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:369][390]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.18:369][390]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Tower_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.18.39:159][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2132.481689
+[2026.10.28-09.18.39:313][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.18.39:313][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2132.625000, Update Interval: 334.673920
+[2026.10.28-09.19.05:962][ 81]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: ================================================
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Total job queries 451, among them cache hits 37 (8.20%), DDC hits 335 (74.28%), Duplicates 75 (16.63%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Tracking 339 distinct input hashes that result in 234 distinct outputs (69.03%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: RAM used: 3,27 MiB of 6,40 GiB budget. Usage: 0.05%
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Shaders Compiled: 4
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 0.42 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.51
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Shader code size: total 27,043 KiB, numShaders 4, average 6,761 KiB, min 5,562 KiB, max 7,852 KiB
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.52 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Average processing rate: 7.76 jobs/sec
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Total thread time: 0,869 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Total thread preprocess time: 5,175 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Percentage time preprocessing: 595.30%
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Effective parallelization: 1.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.120459
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.26 sec, max 0.26 sec, min 0.25 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 58.96% of total time (compiled    2 times, average 0.26 sec, max 0.26 sec, min 0.25 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.04% of total time (compiled    2 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: === Material stats ===
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Materials Translated:    141
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2026.10.28-09.19.09:511][417]LogShaderCompilers: Display: ================================================
+[2026.10.28-09.19.36:805][116]LogEditorTransaction: Undo Modify Component(s)
+[2026.10.28-09.19.37:339][124]LogEditorTransaction: Undo Modify Component(s)
+[2026.10.28-09.19.37:710][151]LogEditorTransaction: Undo Modify Component(s)
+[2026.10.28-09.19.38:124][183]LogEditorTransaction: Undo Add Component
+[2026.10.28-09.21.48:848][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.10.28-09.21.48:851][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.043
+[2026.10.28-09.21.48:852][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.21.48:939][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Tower.BP_Tower]
+[2026.10.28-09.21.48:939][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.21.48:943][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Tower_Auto2
+[2026.10.28-09.21.48:943][659]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_Tower_Auto28393C11648E97751CC994F97DC5CC4F6.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/Autosaves/Game/BP_Tower_Auto2.uasset'
+[2026.10.28-09.21.48:943][659]LogFileHelpers: Auto-saving content packages took 0.092
+[2026.10.28-09.24.04:471][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.04:507][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.04:528][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Tower.BP_Tower]
+[2026.10.28-09.24.04:528][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.04:528][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.04:532][657]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.04:532][657]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_Tower95715B2445715B142FC5A59D7CB2B685.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.04:540][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.256 ms (total: 396.410 ms)
+[2026.10.28-09.24.04:591][657]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.04:591][657]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.04:591][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.04:591][657]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.04:608][657]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-09.24.04:678][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.04:726][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.04:726][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.04:726][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.04:730][665]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.04:730][665]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_Tower3812FE00445462999B5AE685A082BA93.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.04:736][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.859 ms (total: 454.270 ms)
+[2026.10.28-09.24.04:794][665]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.04:794][665]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.04:794][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.04:794][665]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.04:841][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.04:894][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.04:894][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.04:894][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.04:898][669]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.04:898][669]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_Tower07E9530D4ADFCBCCD1CFCFB47364A974.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.04:904][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.742 ms (total: 516.012 ms)
+[2026.10.28-09.24.04:942][669]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.04:942][669]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.04:942][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.04:942][669]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.05:007][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.05:061][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.05:061][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.05:061][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.05:065][675]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.05:065][675]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_TowerDD3768C641326A3A614EF4974786B37E.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.05:071][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.817 ms (total: 580.829 ms)
+[2026.10.28-09.24.05:107][675]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.05:107][675]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.05:107][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.05:107][675]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.05:156][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.05:191][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.05:191][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.05:191][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.05:195][679]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.05:195][679]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_Tower77F46A96473174844D4BDBAD72ED5068.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.05:201][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.142 ms (total: 625.972 ms)
+[2026.10.28-09.24.05:242][679]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.05:242][679]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.05:242][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.05:242][679]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.05:966][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.28-09.24.07:657][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.24.07:692][927]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Tower] ([2] browsable assets)...
+[2026.10.28-09.24.07:712][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Tower.BP_Tower]
+[2026.10.28-09.24.07:712][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Tower]
+[2026.10.28-09.24.07:712][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Tower" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset" SILENT=true
+[2026.10.28-09.24.07:718][927]LogSavePackage: Moving output files for package: /Game/BP_Tower
+[2026.10.28-09.24.07:718][927]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_TowerC9D4BD4743A113B7412AA0A0A1BAA78C.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Tower.uasset'
+[2026.10.28-09.24.07:724][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.469 ms (total: 692.442 ms)
+[2026.10.28-09.24.07:779][927]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.24.07:779][927]LogContentValidation: Enabled validators:
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.24.07:779][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.24.07:779][927]AssetCheck: /Game/BP_Tower Validating asset
+[2026.10.28-09.24.10:672][ 39]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.28-09.24.12:690][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
