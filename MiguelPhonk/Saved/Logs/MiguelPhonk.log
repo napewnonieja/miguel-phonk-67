@@ -1157,3 +1157,5 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/MI_Kulka has a valid,
 [2026.10.28-09.40.35:486][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.28-09.40.35:486][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.717773, Update Interval: 349.967346
 [2026.10.28-09.40.48:842][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.28-09.41.29:756][ 60]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.28-09.41.32:462][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
