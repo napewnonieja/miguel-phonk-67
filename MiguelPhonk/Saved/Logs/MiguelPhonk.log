@@ -1255,3 +1255,22 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/MI_Kulka has a valid,
 [2026.10.28-08.59.57:155][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.28-08.59.57:155][365]AssetCheck: /Game/BP_Enemy Validating asset
 [2026.10.28-09.00.00:480][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.28-09.00.33:283][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1046.460327
+[2026.10.28-09.00.34:283][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.00.34:283][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.127319, Update Interval: 315.714600
+[2026.10.28-09.05.15:148][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.05.15:211][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Enemy] ([2] browsable assets)...
+[2026.10.28-09.05.15:211][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Enemy]
+[2026.10.28-09.05.15:211][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Enemy" FILE="../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Enemy.uasset" SILENT=true
+[2026.10.28-09.05.15:215][851]LogSavePackage: Moving output files for package: /Game/BP_Enemy
+[2026.10.28-09.05.15:216][851]LogSavePackage: Moving '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Saved/BP_EnemyB41CF65B44AEE0A62E4364AF7ABBFF9C.tmp' to '../../../../../../Users/LAB1-Student06/Desktop/GitHubik/miguel-phonk-67/MiguelPhonk/Content/BP_Enemy.uasset'
+[2026.10.28-09.05.15:221][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.760 ms (total: 327.153 ms)
+[2026.10.28-09.05.15:275][851]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.05.15:275][851]LogContentValidation: Enabled validators:
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.05.15:275][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.05.15:276][851]AssetCheck: /Game/BP_Enemy Validating asset
